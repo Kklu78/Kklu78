@@ -1,10 +1,7 @@
 
-<h1 align="center">
-    Kevin Lu
-</h1>
-<h2 align="center">
-    Software Engineer
-</h2>
+# Kevin Lu
+## Software Engineer
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kklu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinklu78@gmail.com)
 
