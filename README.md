@@ -16,7 +16,36 @@
    
 </p>
 
-<h3>Programming Languages</h3>
+<h3>Tech Stack</h3>
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![scikitlearn](https://img.shields.io/badge/-scikitlearn-333?style=flat&logo=scikit-learn)
+<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
+<br />
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+<br />
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-333?style=flat&logo=mongodb)
+<br />
+![GCP](https://img.shields.io/badge/-GCP-333?style=flat&logo=googlecloud)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
+<br />
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
+
+
+
+
+
+
 
 
 
