@@ -1,4 +1,13 @@
-### Hi there 👋
+
+<h1 align="center">
+    Kevin Lu
+</h1>
+<h2 align="center">
+    Software Engineer
+</h2>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kklu/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinklu78@gmail.com)
+
 
 <!--
 **Kklu78/Kklu78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
