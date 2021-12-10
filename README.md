@@ -1,6 +1,5 @@
 
-# Kevin Lu
-## Software Engineer
+<h1 align="center">Kevin Lu</h1>
 
 [![Github](https://img.shields.io/badge/-kklu78-333?style=flat&logo=Github&logoColor=white)](https://github.com/Kklu78)
 [![Linkedin](https://img.shields.io/badge/-kklu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kklu/)
