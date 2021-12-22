@@ -31,7 +31,7 @@
 ![scikitlearn](https://img.shields.io/badge/-scikitlearn-333?style=flat&logo=scikit-learn)
 <br />
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node](https://img.shields.io/badge/-Node-333?style=flat&logo=node.js)
+![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)
 <br />
@@ -50,9 +50,31 @@
 <h3>Programming Projects</h3>
 
 ### MovieMatch
+![Search: Most Popular](https://raw.githubusercontent.com/Kklu78/MovieMatch/master/public/images/readme/MostPopular.png)
 A movie app that utilizes the IMDB API and renders movies from several queries that allows a user to like a movie and add it to their favorites.  The app also allows users to add/request/reject/remove other users on the site as friends.  Each movie can also be further examined to view movie details such as general information, synopsis, actors as well as related films.
+[Click to launch the app](https://moviematch-app.herokuapp.com/)
+<br />
+Technologies Used
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
+![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![IMDB](https://img.shields.io/badge/-IMDb-333?style=flat&logo=imdb)
+
 
 ### OrderUp
+![Search: Most Popular](https://github.com/Kklu78/OrderUp/raw/master/public/images/Readme/Order.png)
 An app that allows a you to search for a restaurant near their location and start a group order with the ability to invite other users on the app to order together.  Each user can submit their personalized order and add it to the group. With a final breakdown of each user’s order as well as the tally of all items and amounts on the order
+[Click to launch the app](https://orderupapp.herokuapp.com/orderup)
+<br />
+Technologies Used
+
+### Events With Friends
+An app that lets you to search through events in various cities where you can add to your favorites.  Once added, it will show up on your favorites
+
+
 
 
