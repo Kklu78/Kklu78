@@ -71,10 +71,16 @@ An app that allows a you to search for a restaurant near their location and star
 [Click to launch the app](https://orderupapp.herokuapp.com/orderup)
 <br />
 Technologies Used
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
+![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 
-### Events With Friends
+<!-- ### Events With Friends
 An app that lets you to search through events in various cities where you can add to your favorites.  Once added, it will show up on your favorites
-
+ -->
 
 
 
