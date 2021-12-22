@@ -47,7 +47,7 @@
 ![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
 ![VScode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
 
-<h3>Programming Projects</h3>
+<h2>Programming Projects</h2>
 
 ### MovieMatch
 ![Search: Most Popular](https://raw.githubusercontent.com/Kklu78/MovieMatch/master/public/images/readme/MostPopular.png)
